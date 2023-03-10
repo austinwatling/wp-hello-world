@@ -38,3 +38,4 @@ function wphw_login_message( $message ) {
 	return $message ;
 
 }
+test
